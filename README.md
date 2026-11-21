@@ -152,7 +152,7 @@ This helps make machine learning predictions more transparent and understandable
 
 ---
 
-## 🔄 Data Pipeline
+##  Data Pipeline
 
 **Raw Customer Data → Data Cleaning → Exploratory Analysis → Feature Preprocessing → Model Training → Model Evaluation → Model Persistence → Prediction → SHAP Explanation → Interactive Dashboard**
 
