@@ -10,13 +10,13 @@
 
 ---
 
-## 🚀 Live Application
+##  Live Application
 
 [**Launch Customer Intelligence Platform**](https://customer-intelligence-platform-afthab.streamlit.app)
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Customer Intelligence Platform is an end-to-end machine learning application designed to analyse customer behaviour, identify churn patterns, and predict the likelihood of customers leaving a service.
 
@@ -28,7 +28,7 @@ The objective is to support data-driven decision-making and help businesses deve
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The platform follows an end-to-end machine learning workflow:
 
@@ -45,7 +45,7 @@ The platform follows an end-to-end machine learning workflow:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **IBM Telco Customer Churn Dataset**
 
@@ -68,9 +68,9 @@ The dataset is used to explore customer behaviour and develop a classification m
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📈 Customer Analytics Dashboard
+###  Customer Analytics Dashboard
 
 - Customer overview and retention insights
 - Historical churn distribution
@@ -79,7 +79,7 @@ The dataset is used to explore customer behaviour and develop a classification m
 - Interactive visualizations
 - Customer behaviour exploration
 
-### 🔮 Customer Churn Prediction
+###  Customer Churn Prediction
 
 - Interactive customer input form
 - Individual customer risk prediction
@@ -87,7 +87,7 @@ The dataset is used to explore customer behaviour and develop a classification m
 - Stay-or-churn prediction output
 - Real-time inference through the web dashboard
 
-### 🧠 Explainable AI
+###  Explainable AI
 
 - Individual prediction explanations using SHAP
 - Feature contribution analysis
@@ -97,7 +97,7 @@ The dataset is used to explore customer behaviour and develop a classification m
 
 ---
 
-## 🤖 Machine Learning
+##  Machine Learning
 
 ### Logistic Regression
 
@@ -113,7 +113,7 @@ The trained models are evaluated using classification evaluation techniques to u
 
 ---
 
-## 🔍 Explainable AI — SHAP
+##  Explainable AI — SHAP
 
 SHAP (SHapley Additive exPlanations) is used to interpret machine learning predictions.
 
@@ -131,7 +131,7 @@ This helps make machine learning predictions more transparent and understandable
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -160,7 +160,7 @@ The pipeline maintains consistency between model training and prediction by usin
 
 ---
 
-## ⚙️ Key Challenges & Solutions
+##  Key Challenges & Solutions
 
 ### Data Quality
 
@@ -184,7 +184,7 @@ Developed an interactive dashboard that allows users to enter customer informati
 
 ---
 
-## 💼 Business Applications
+##  Business Applications
 
 Customer churn prediction can be applied across various industries where customer retention is important.
 
@@ -199,7 +199,7 @@ The platform can help businesses prioritise customer engagement, investigate chu
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Large-scale data processing
 - Customer segmentation using clustering
@@ -212,7 +212,7 @@ The platform can help businesses prioritise customer engagement, investigate chu
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shaik Afthab Hussain**
 
